@@ -1,0 +1,17 @@
+table {
+	border-collapse: collapsed;
+	width: 100%;
+	color: #588c7e;
+	font-family: monospace;
+	font-size: 20px;
+	text-align: left; 
+}
+th {
+	background-color: #588c7e;
+	color: white;
+}
+h1{
+	background-color: #88c3ff;
+	color: #6e1335
+}
+tr:nth-child(even) {background-color: #f2f2f2}
